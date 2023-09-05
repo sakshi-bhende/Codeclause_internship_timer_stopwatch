@@ -1,8 +1,9 @@
 # Codeclause_internship_timer_stopwatch
+Stopwatch Web Application
 This is a simple web application that functions as a stopwatch, allowing users to measure time accurately. It provides features to start, stop, and reset the timer.
 
 Screenshot:
-![Included relevant screenshots of the application here.](Screenshot (79).png)
+
 
 
 Features:
