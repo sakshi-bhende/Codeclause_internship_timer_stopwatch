@@ -2,12 +2,8 @@
 This is a simple web application that functions as a stopwatch, allowing users to measure time accurately. It provides features to start, stop, and reset the timer.
 
 Screenshot:
-![alt text](image_url)
-```
+![Included relevant screenshots of the application here.]()
 
-Replace `alt text` with a descriptive alternative text for the image, and replace `image_url` with the URL of the image you obtained in step 2.
-
-If you uploaded the image directly to your GitHub repository, the URL should be relative to the repository, for example: `images/screenshot.png`.
 
 Features:
 
